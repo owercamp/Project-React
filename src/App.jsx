@@ -6,7 +6,7 @@ export default function App() {
     <div className="App">
       <h1>Lista de Pendientes</h1>
       
-      <span>Pendientes: 03.</span>
+      <span>Pendientes:</span>
       
       <ul className="card">
         <TodoList />
